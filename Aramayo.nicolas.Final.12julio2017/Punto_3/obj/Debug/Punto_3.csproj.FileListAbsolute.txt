@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Aramayo.nicolas.Final.12julio2017\Punto_3\bin\Debug\Punto_3.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Aramayo.nicolas.Final.12julio2017\Punto_3\bin\Debug\Punto_3.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Aramayo.nicolas.Final.12julio2017\Punto_3\obj\Debug\Punto_3.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Aramayo.nicolas.Final.12julio2017\Punto_3\obj\Debug\Punto_3.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Aramayo.nicolas.Final.12julio2017\Punto_3\obj\Debug\Punto_3.pdb
