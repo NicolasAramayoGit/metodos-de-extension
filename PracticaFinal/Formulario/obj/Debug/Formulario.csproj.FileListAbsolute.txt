@@ -1,0 +1,9 @@
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\Formulario\bin\Debug\Formulario.exe
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\Formulario\bin\Debug\Formulario.pdb
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\Formulario\obj\Debug\Formulario.exe
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\Formulario\obj\Debug\Formulario.pdb

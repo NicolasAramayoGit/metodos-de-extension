@@ -1,0 +1,5 @@
+c:\users\wallydell\documents\visual studio 2017\Projects\PracticaFinal\PUNTO_1\bin\Debug\PUNTO_1.dll
+c:\users\wallydell\documents\visual studio 2017\Projects\PracticaFinal\PUNTO_1\bin\Debug\PUNTO_1.pdb
+c:\users\wallydell\documents\visual studio 2017\Projects\PracticaFinal\PUNTO_1\obj\Debug\PUNTO_1.csprojResolveAssemblyReference.cache
+c:\users\wallydell\documents\visual studio 2017\Projects\PracticaFinal\PUNTO_1\obj\Debug\PUNTO_1.dll
+c:\users\wallydell\documents\visual studio 2017\Projects\PracticaFinal\PUNTO_1\obj\Debug\PUNTO_1.pdb

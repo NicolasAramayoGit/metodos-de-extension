@@ -1,0 +1,11 @@
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\bin\Debug\PUNTO5.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\bin\Debug\PUNTO5.pdb
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\obj\Debug\PUNTO5.csprojResolveAssemblyReference.cache
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\obj\Debug\PUNTO5.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\obj\Debug\PUNTO5.pdb
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\bin\Debug\PUNTO8.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\bin\Debug\PUNTO8.pdb
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\bin\Debug\PUNTO3.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\bin\Debug\PUNTO4.dll
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\bin\Debug\PUNTO3.pdb
+C:\Users\WALLYDELL\documents\visual studio 2017\Projects\PracticaFinal\PUNTO5\bin\Debug\PUNTO4.pdb
